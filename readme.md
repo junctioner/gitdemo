@@ -22,4 +22,7 @@
    * 右键菜单-->team-- push;代码提交到远程服务器中；
    
 6. 更新代码
+   * 右键菜单-->team-- synchoinze workspace
+   * 右键菜单-->team-- Fetch 
+   * 右键菜单-->team-- Merge
    
