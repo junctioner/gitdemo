@@ -28,6 +28,6 @@
 
 7. 合并代码（两个人修改同一个代码文件）
    * 右键菜单-->team-- synchoinze workspace
-   * 如果发现服务器上有新代码
+   * 如果发现服务器上有新代码,*要保证本地修改的代码，已commit*
    * 右键菜单-->team-- Fetch 
    * 右键菜单-->team-- Merge
