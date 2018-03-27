@@ -32,4 +32,6 @@
    * 右键菜单-->team-- Fetch 
    * 右键菜单-->team-- Merge
 ## 项目组成员  
+DT55班（hello git）
 * 魏思雅  weisiya段承成ccDuan 严力 baizegithub 蔡冠鹏 DT55-cgp
+* 何俊杰  hjj
