@@ -2,8 +2,10 @@
 
 1. 确认有没有git插件
 	1. windows-->prefernce-->team--git
+	
 2. 打开git视图
     * 点击 右上角带+号的小图标--> 选择Git
+    
 3. clone 代码
     * 点击git视图中,第二个链接，
     * 在弹出界面中，输入git仓库的地址
