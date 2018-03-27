@@ -32,7 +32,7 @@
    * 右键菜单-->team-- Fetch 
    * 右键菜单-->team-- Merge
 ## 项目组成员  
-DT55班（hello git）
+* DT55班（hello git）
 * 魏思雅  weisiya
 * 段承成ccDuan 
 * 严力 baizegithub 
