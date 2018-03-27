@@ -35,3 +35,4 @@
 DT55班（hello git）
 * 魏思雅  weisiya段承成ccDuan 严力 baizegithub 蔡冠鹏 DT55-cgp
 * 何俊杰  hjj
+* 刘攀 dt55-lp
