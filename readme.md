@@ -25,4 +25,5 @@
    * 右键菜单-->team-- synchoinze workspace
    * 右键菜单-->team-- Fetch 
    * 右键菜单-->team-- Merge
-   
+
+7. 合并代码（两个人修改同一个代码文件）
