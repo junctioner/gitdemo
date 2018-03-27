@@ -1,4 +1,4 @@
-# git 演示项目
+# git 演示
 
 1. 确认有没有git插件
 	1. windows-->prefernce-->team--git
