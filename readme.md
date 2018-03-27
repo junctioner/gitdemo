@@ -39,17 +39,6 @@
 * 蔡冠鹏 DT55-cgp
 * 何俊杰  hjj
 * 刘攀 dt55-lp
-<<<<<<< HEAD
 * 蔡文强jiushilaikankan
-* 李宁liningDT56  SB
-=======
-* 蔡文强jiushilaikankan
-<<<<<<< HEAD
-* 廖武威
-* 李宁liningDT56 SB
-=======
-* 廖武威 liaowuwei
 * 李宁liningDT56
->>>>>>> refs/remotes/origin/master
-
->>>>>>> refs/remotes/origin/master
+* 廖武威 liaowuwei
