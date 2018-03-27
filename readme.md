@@ -32,4 +32,4 @@
    * 右键菜单-->team-- Fetch 
    * 右键菜单-->team-- Merge
 ## 项目组成员  
-* 魏思雅  weisiya段承成ccDuan 严力 baizegithub
+* 魏思雅  weisiya段承成ccDuan 严力 baizegithub 蔡冠鹏 DT55-cgp
