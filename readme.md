@@ -46,5 +46,5 @@
 * 李宁liningDT56
 * 廖武威 liaowuwei
 * 李海龙lihailong
-* 鲁修谱luxiupu+鲁修普
+* 鲁修谱luxiupu+鲁修普+san
 * 涂敏tumin
