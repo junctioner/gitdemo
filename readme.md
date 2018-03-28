@@ -46,9 +46,6 @@
 * 李宁liningDT56
 * 廖武威 liaowuwei
 * 李海龙lihailong
-<<<<<<< HEAD
-* 鲁修谱luxiupu++123456
-=======
-* 鲁修谱luxiupu+鲁修普
->>>>>>> refs/remotes/origin/master
+* 鲁修谱luxiupu++123456+鲁修普
+
 * 涂敏tumin
