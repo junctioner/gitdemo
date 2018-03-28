@@ -51,6 +51,7 @@
 ----------------------
 * 涂敏tumin
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
 
 
@@ -59,4 +60,7 @@
 * caicai nishishui
 =======
 蔡蔡是个逗比！
+
+=======
+李宁是个坑货
 >>>>>>> refs/remotes/origin/master
