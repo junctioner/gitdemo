@@ -50,5 +50,5 @@
 * 鲁修谱luxiupu
 ----------------------
 * DT_54班
-* 涂敏tumin
+* 涂敏javabytm
 * 金臻韬JinztV1
