@@ -50,9 +50,13 @@
 * 鲁修谱luxiupu
 ----------------------
 * 涂敏tumin
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
 
 
 
 ----------------------------------------
 * caicai nishishui
+=======
+蔡蔡是个逗比！
+>>>>>>> refs/remotes/origin/master
