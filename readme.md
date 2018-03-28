@@ -48,8 +48,11 @@
 * 廖武威 liaowuwei
 * 李海龙lihailong
 * 鲁修谱luxiupu
+
+
 ----------------------
 * 涂敏tumin
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
@@ -63,4 +66,7 @@
 
 =======
 李宁是个坑货
+>>>>>>> refs/remotes/origin/master
+=======
+李宁是个坑货,确实是！
 >>>>>>> refs/remotes/origin/master
