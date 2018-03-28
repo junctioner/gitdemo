@@ -32,6 +32,8 @@
    * 右键菜单-->team-- Fetch 
    * 右键菜单-->team-- Merge
 ## 项目组成员  
+
+----------------------
 * DT55班（hello git）
 * 魏思雅  weisiya
 * 段承成ccDuan 
@@ -39,9 +41,13 @@
 * 蔡冠鹏 DT55-cgp
 * 何俊杰  hjj
 * 刘攀 dt55-lp
+----------------------
+* dt-56班
 * 蔡文强jiushilaikankan
 * 李宁liningDT56
 * 廖武威 liaowuwei
 * 李海龙lihailong
 * 鲁修谱luxiupu
-* 涂敏tumin dt54
+----------------------
+* DT_54班
+* 涂敏tumin
