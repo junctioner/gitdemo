@@ -31,6 +31,25 @@
    * 如果发现服务器上有新代码,*要保证本地修改的代码，已commit*
    * 右键菜单-->team-- Fetch 
    * 右键菜单-->team-- Merge
+8. 应用多个远程仓库
+   1. 编辑项目本地库(.git)目录下的config文件,配置多个远程库，
+'''
+[remote "origin"]
+    url = https://github.com/junctioner/gitdemo.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "gitee"]
+    url = https://gitee.com/junctioner/giteeDemo.git
+    fetch = +refs/heads/*:refs/remotes/origin/*
+'''
+    2. pull操作
+        * 使用以下命令，可以分别从两个远程仓库pull：
+git pull origin master
+git pull mirror master12
+    3. push操作
+使用以下命令，可以分别push到两个远程仓库：
+git push origin master
+git push mirror master
+
 ## 项目组成员  
 
 ----------------------
