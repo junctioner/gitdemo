@@ -50,30 +50,3 @@ git pull mirror master12
 git push origin master
 git push mirror master
 
-## 项目组成员  
-
-----------------------
-* DT55班（hello git）
-* 魏思雅  weisiya
-* 段承成ccDuan 
-* 严力 baizegithub 
-* 蔡冠鹏 DT55-cgp
-* 何俊杰  hjj
-* 刘攀 dt55-lp
-* 曾志林 zengzhilin
-----------------------
-* dt-56班
-* 蔡文强jiushilaikankan
-* 李宁liningDT56
-* 廖武威 liaowuwei
-* 李海龙lihailong
-* 鲁修谱luxiupu
-----------------------
-* DT_54班
-* 涂敏javabytm
-* 金臻韬JinztV1
-* 熊鹏xplife6
-* 王琰javawangyan
-* 陈树chenshujava
-* 孙世林 javabysunshilin
-* 戴俊daiErik
